@@ -1,4 +1,4 @@
-# SyntacticAnalyis
+# SyntacticAnalysis
 
 Lexical analyzer that tokenizes code to see if it follows the rules of a certain EBNF grammar.
 
